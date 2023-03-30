@@ -1,15 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
 
 
-<h1>About Me 📌</h1>
-
-- 👋 I am Yafa Khateeb
-- 💻 I am a Computer Science Student in my third year
-- 🌱 I am currently focusing on learning android programming
-- 😎 Further more, I like to spend some time at problem-solving sites
-- ⚡ Fun fact: I have a lot of time correcting my friends' codes
-<br />
-
 <h2 align="center">Quick Overview 📈</h2>
   
   <p align = "center">
