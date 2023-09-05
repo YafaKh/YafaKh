@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Computer Science Graduate | Backend Developer | Data Science Learner
 <br>
-🔭 I’m currently progressing through Programming for Data Science  https://github.com/YafaKh/programming_for_data_science<br><br>👨‍💻 All of my projects are available at https://github.com/YafaKh/<br><br>📫 How to reach me yafa.khateeb4@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1ivjlXpU3BGR3VOK1hGXNK2SLAWYDFiHk/view?usp=sharing
+🔭 I’m currently progressing through Programming for Data Science  https://github.com/YafaKh/programming_for_data_science<br><br>👨‍💻 All of my projects are available at https://github.com/YafaKh/<br><br>📫 How to reach me yafa.khateeb4@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/134QtDZGb126BFTZu7pAlTHlNC31gQEBh/view?usp=sharing
 
 
 # 💻 Tech Stack:
