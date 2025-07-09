@@ -1,15 +1,37 @@
-# 💫 About Me:
-### Computer Science Graduate | Backend Developer | Data Science Learner
-<br>
-🔭 I’m currently progressing through Programming for Data Science  https://github.com/YafaKh/programming_for_data_science<br><br>👨‍💻 All of my projects are available at https://github.com/YafaKh/<br><br>📫 How to reach me yafa.khateeb4@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/134QtDZGb126BFTZu7pAlTHlNC31gQEBh/view?usp=sharing
+### 👋 About Me
 
-
-# 💻 Tech Stack:
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YafaKh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Hi, I’m **Yafa Khateeb**, a **Financial Data Analyst**, with a background in **Computer Science** and a strong passion for data analytics, problem solving, and building impactful tech solutions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YafaKh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💼 Current Role
+I'm currently working at **Palestine Islamic Bank** in the **Revenue Assurance Department**, where I analyze financial data, generate detailed reports, and ensure accuracy in financial processes. My day-to-day involves digging deep into databases to surface insights that inform business decisions and uncover issues in financial calculations.
+
+---
+
+### 🧠 My Background
+- 🧾 **Previously**: I worked in the **Human Capital Department**, focusing on financial reporting and analytics to support internal operations.
+- 💻 **Tech Trainee** at **Auxilium Technology**, where I got hands-on experience with **full-stack web development** using Laravel, Bootstrap, and collaborative tools like **Bitbucket** and **SourceTree**.
+- 🎓 Graduated with a **B.Sc. in Computer Science** from **Arab American University - Jenin** (GPA: 3.53).
+
+---
+
+### 📈 Skills & Tools
+**Data Analysis**: Python, SQL, MySQL, Pandas, NumPy, Excel, Tableau  
+**Web Development**: Laravel, HTML, CSS, JavaScript, jQuery, Bootstrap  
+**Other Tools**: Git, GitHub, Bitbucket, Linux, BeautifulSoup  
+**Soft Skills**: Problem Solving, Team Collaboration, Reporting
+
+---
+
+### 🎓 Certifications & Training
+- **Nanodegree in Programming for Data Science (Udacity)** – SQL, Python, Command Line
+- **Data Analytics with Python (GSG)**
+- **Advanced Python & Computer Vision Bootcamps (GSG)**
+- **Data Manipulation with Python (DataCamp)**
+- **Banking & Anti-Fraud Training (Palestinian Banking Institute)**
+
+---
+
+### 📬 Let’s Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yafa-khateeb-560a66238/)
